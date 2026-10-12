@@ -580,7 +580,7 @@
     "CustomData": ""
   },
   "use": {
-    "Enabled": false,
+    "Enabled": true,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
