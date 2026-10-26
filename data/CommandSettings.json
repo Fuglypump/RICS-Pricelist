@@ -620,7 +620,7 @@
     "CustomData": ""
   },
   "wear": {
-    "Enabled": false,
+    "Enabled": true,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
@@ -760,7 +760,8 @@
       "water",
       "dropedge",
       "drop",
-      "dropgroups"
+      "dropgroups",
+      "dropchaos"
     ],
     "AllowedRaidStrategies": [
       "default",
@@ -1515,7 +1516,7 @@
     "CustomData": ""
   },
   "captolamia": {
-    "Enabled": false,
+    "Enabled": true,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,

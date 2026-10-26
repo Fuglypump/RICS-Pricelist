@@ -24,8 +24,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": true,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "ManhunterAmbush": {
     "DefName": "ManhunterAmbush",
@@ -52,8 +52,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": true,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "CaravanMeeting": {
     "DefName": "CaravanMeeting",
@@ -80,8 +80,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "CaravanDemand": {
     "DefName": "CaravanDemand",
@@ -108,8 +108,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": true,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "Disease_Flu": {
     "DefName": "Disease_Flu",
@@ -136,8 +136,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "Disease_Plague": {
     "DefName": "Disease_Plague",
@@ -164,8 +164,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "Disease_Malaria": {
     "DefName": "Disease_Malaria",
@@ -192,8 +192,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "Disease_SleepingSickness": {
     "DefName": "Disease_SleepingSickness",
@@ -220,8 +220,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "Disease_FibrousMechanites": {
     "DefName": "Disease_FibrousMechanites",
@@ -248,8 +248,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "Disease_SensoryMechanites": {
     "DefName": "Disease_SensoryMechanites",
@@ -276,8 +276,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "Disease_GutWorms": {
     "DefName": "Disease_GutWorms",
@@ -304,8 +304,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "Disease_MuscleParasites": {
     "DefName": "Disease_MuscleParasites",
@@ -332,8 +332,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "Disease_AnimalFlu": {
     "DefName": "Disease_AnimalFlu",
@@ -360,8 +360,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "Disease_AnimalPlague": {
     "DefName": "Disease_AnimalPlague",
@@ -388,8 +388,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "Disease_OrganDecay": {
     "DefName": "Disease_OrganDecay",
@@ -416,8 +416,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "ResourcePodCrash": {
     "DefName": "ResourcePodCrash",
@@ -444,8 +444,8 @@
     "BaseChance": 1.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "PsychicSoothe": {
     "DefName": "PsychicSoothe",
@@ -472,8 +472,8 @@
     "BaseChance": 1.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "SelfTame": {
     "DefName": "SelfTame",
@@ -500,8 +500,8 @@
     "BaseChance": 1.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "AmbrosiaSprout": {
     "DefName": "AmbrosiaSprout",
@@ -528,8 +528,8 @@
     "BaseChance": 1.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "FarmAnimalsWanderIn": {
     "DefName": "FarmAnimalsWanderIn",
@@ -556,8 +556,8 @@
     "BaseChance": 0.4,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "WandererJoin": {
     "DefName": "WandererJoin",
@@ -584,8 +584,8 @@
     "BaseChance": 0.4,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "RefugeePodCrash": {
     "DefName": "RefugeePodCrash",
@@ -612,8 +612,8 @@
     "BaseChance": 1.5,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "ThrumboPasses": {
     "DefName": "ThrumboPasses",
@@ -640,8 +640,8 @@
     "BaseChance": 0.7,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "MeteoriteImpact": {
     "DefName": "MeteoriteImpact",
@@ -668,8 +668,8 @@
     "BaseChance": 0.5,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "HerdMigration": {
     "DefName": "HerdMigration",
@@ -680,7 +680,7 @@
     "BaseCost": 684,
     "KarmaType": "Neutral",
     "EventCap": 2,
-    "Enabled": false,
+    "Enabled": true,
     "DisabledReason": "",
     "ShouldBeInStore": true,
     "IsAvailableForCommands": true,
@@ -696,8 +696,8 @@
     "BaseChance": 1.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "WildManWandersIn": {
     "DefName": "WildManWandersIn",
@@ -708,7 +708,7 @@
     "BaseCost": 684,
     "KarmaType": "Neutral",
     "EventCap": 2,
-    "Enabled": false,
+    "Enabled": true,
     "DisabledReason": "",
     "ShouldBeInStore": true,
     "IsAvailableForCommands": true,
@@ -724,8 +724,8 @@
     "BaseChance": 1.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "PsychicDrone": {
     "DefName": "PsychicDrone",
@@ -752,8 +752,8 @@
     "BaseChance": 1.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "ToxicFallout": {
     "DefName": "ToxicFallout",
@@ -780,8 +780,8 @@
     "BaseChance": 0.12,
     "EarliestDay": 60,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "VolcanicWinter": {
     "DefName": "VolcanicWinter",
@@ -808,8 +808,8 @@
     "BaseChance": 0.08,
     "EarliestDay": 60,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "HeatWave": {
     "DefName": "HeatWave",
@@ -836,8 +836,8 @@
     "BaseChance": 1.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "ColdSnap": {
     "DefName": "ColdSnap",
@@ -864,8 +864,8 @@
     "BaseChance": 1.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "Flashstorm": {
     "DefName": "Flashstorm",
@@ -892,8 +892,8 @@
     "BaseChance": 0.4,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "ShortCircuit": {
     "DefName": "ShortCircuit",
@@ -920,8 +920,8 @@
     "BaseChance": 1.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "CropBlight": {
     "DefName": "CropBlight",
@@ -948,8 +948,8 @@
     "BaseChance": 0.3,
     "EarliestDay": 0,
     "PointsScaleable": true,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "Alphabeavers": {
     "DefName": "Alphabeavers",
@@ -976,8 +976,8 @@
     "BaseChance": 0.5,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "ShipChunkDrop": {
     "DefName": "ShipChunkDrop",
@@ -988,7 +988,7 @@
     "BaseCost": 342,
     "KarmaType": "Neutral",
     "EventCap": 2,
-    "Enabled": false,
+    "Enabled": true,
     "DisabledReason": "",
     "ShouldBeInStore": true,
     "IsAvailableForCommands": true,
@@ -1004,8 +1004,8 @@
     "BaseChance": 3.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "OrbitalTraderArrival": {
     "DefName": "OrbitalTraderArrival",
@@ -1032,8 +1032,8 @@
     "BaseChance": 3.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "TraderCaravanArrival": {
     "DefName": "TraderCaravanArrival",
@@ -1060,8 +1060,8 @@
     "BaseChance": 4.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "VisitorGroup": {
     "DefName": "VisitorGroup",
@@ -1088,8 +1088,8 @@
     "BaseChance": 4.0,
     "EarliestDay": 0,
     "PointsScaleable": true,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "TravelerGroup": {
     "DefName": "TravelerGroup",
@@ -1116,8 +1116,8 @@
     "BaseChance": 4.0,
     "EarliestDay": 0,
     "PointsScaleable": true,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "StrangerInBlackJoin": {
     "DefName": "StrangerInBlackJoin",
@@ -1144,8 +1144,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "GameEndedWanderersJoin": {
     "DefName": "GameEndedWanderersJoin",
@@ -1172,8 +1172,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "Infestation": {
     "DefName": "Infestation",
@@ -1201,7 +1201,7 @@
     "EarliestDay": 0,
     "PointsScaleable": true,
     "MinThreatPoints": 400.0,
-    "MaxThreatPoints": 3.40282347E+38
+    "MaxThreatPoints": 3.4028235E+38
   },
   "ManhunterPack": {
     "DefName": "ManhunterPack",
@@ -1228,8 +1228,8 @@
     "BaseChance": 2.0,
     "EarliestDay": 0,
     "PointsScaleable": true,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "DefoliatorShipPartCrash": {
     "DefName": "DefoliatorShipPartCrash",
@@ -1240,7 +1240,7 @@
     "BaseCost": 1676,
     "KarmaType": "Doom",
     "EventCap": 1,
-    "Enabled": false,
+    "Enabled": true,
     "DisabledReason": "",
     "ShouldBeInStore": true,
     "IsAvailableForCommands": true,
@@ -1257,7 +1257,7 @@
     "EarliestDay": 0,
     "PointsScaleable": true,
     "MinThreatPoints": 400.0,
-    "MaxThreatPoints": 3.40282347E+38
+    "MaxThreatPoints": 3.4028235E+38
   },
   "PsychicEmanatorShipPartCrash": {
     "DefName": "PsychicEmanatorShipPartCrash",
@@ -1268,7 +1268,7 @@
     "BaseCost": 1676,
     "KarmaType": "Doom",
     "EventCap": 1,
-    "Enabled": false,
+    "Enabled": true,
     "DisabledReason": "",
     "ShouldBeInStore": true,
     "IsAvailableForCommands": true,
@@ -1285,7 +1285,7 @@
     "EarliestDay": 0,
     "PointsScaleable": true,
     "MinThreatPoints": 400.0,
-    "MaxThreatPoints": 3.40282347E+38
+    "MaxThreatPoints": 3.4028235E+38
   },
   "AnimalInsanityMass": {
     "DefName": "AnimalInsanityMass",
@@ -1312,8 +1312,8 @@
     "BaseChance": 1.3,
     "EarliestDay": 0,
     "PointsScaleable": true,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "AnimalInsanitySingle": {
     "DefName": "AnimalInsanitySingle",
@@ -1340,8 +1340,8 @@
     "BaseChance": 5.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "Eclipse": {
     "DefName": "Eclipse",
@@ -1368,8 +1368,8 @@
     "BaseChance": 1.5,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "SolarFlare": {
     "DefName": "SolarFlare",
@@ -1396,8 +1396,8 @@
     "BaseChance": 1.3,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "Aurora": {
     "DefName": "Aurora",
@@ -1424,8 +1424,8 @@
     "BaseChance": 1.2,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "GiveQuest_Random": {
     "DefName": "GiveQuest_Random",
@@ -1452,8 +1452,8 @@
     "BaseChance": 1.0,
     "EarliestDay": 2,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "WandererJoinAbasia": {
     "DefName": "WandererJoinAbasia",
@@ -1480,8 +1480,8 @@
     "BaseChance": 0.4,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "CaravanArrivalTributeCollector": {
     "DefName": "CaravanArrivalTributeCollector",
@@ -1508,8 +1508,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "AnimaTreeSpawn": {
     "DefName": "AnimaTreeSpawn",
@@ -1520,7 +1520,7 @@
     "BaseCost": 475,
     "KarmaType": "Good",
     "EventCap": 2,
-    "Enabled": false,
+    "Enabled": true,
     "DisabledReason": "",
     "ShouldBeInStore": true,
     "IsAvailableForCommands": true,
@@ -1536,8 +1536,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "GiveQuest_Intro_Wimp": {
     "DefName": "GiveQuest_Intro_Wimp",
@@ -1564,8 +1564,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "GiveQuest_Intro_Deserter": {
     "DefName": "GiveQuest_Intro_Deserter",
@@ -1592,8 +1592,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "ProblemCauser": {
     "DefName": "ProblemCauser",
@@ -1621,7 +1621,7 @@
     "EarliestDay": 20,
     "PointsScaleable": true,
     "MinThreatPoints": 400.0,
-    "MaxThreatPoints": 3.40282347E+38
+    "MaxThreatPoints": 3.4028235E+38
   },
   "Disease_Abasia": {
     "DefName": "Disease_Abasia",
@@ -1649,7 +1649,7 @@
     "EarliestDay": 0,
     "PointsScaleable": false,
     "MinThreatPoints": 300.0,
-    "MaxThreatPoints": 3.40282347E+38
+    "MaxThreatPoints": 3.4028235E+38
   },
   "Disease_BloodRot": {
     "DefName": "Disease_BloodRot",
@@ -1677,7 +1677,7 @@
     "EarliestDay": 0,
     "PointsScaleable": false,
     "MinThreatPoints": 700.0,
-    "MaxThreatPoints": 3.40282347E+38
+    "MaxThreatPoints": 3.4028235E+38
   },
   "GiveQuest_Beggars": {
     "DefName": "GiveQuest_Beggars",
@@ -1688,7 +1688,7 @@
     "BaseCost": 428,
     "KarmaType": "Good",
     "EventCap": 2,
-    "Enabled": false,
+    "Enabled": true,
     "DisabledReason": "",
     "ShouldBeInStore": true,
     "IsAvailableForCommands": true,
@@ -1704,8 +1704,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "GiveQuest_ReliquaryPilgrims": {
     "DefName": "GiveQuest_ReliquaryPilgrims",
@@ -1732,8 +1732,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "GauranlenPodSpawn": {
     "DefName": "GauranlenPodSpawn",
@@ -1760,8 +1760,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "Infestation_Jelly": {
     "DefName": "Infestation_Jelly",
@@ -1788,8 +1788,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "WanderersSkylantern": {
     "DefName": "WanderersSkylantern",
@@ -1816,8 +1816,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "GiveQuest_WorkSite": {
     "DefName": "GiveQuest_WorkSite",
@@ -1844,8 +1844,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": true,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "GiveQuest_AncientComplex_Mechanitor": {
     "DefName": "GiveQuest_AncientComplex_Mechanitor",
@@ -1872,8 +1872,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "RefugeePodCrash_Baby": {
     "DefName": "RefugeePodCrash_Baby",
@@ -1900,8 +1900,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "PoluxTreeSpawn": {
     "DefName": "PoluxTreeSpawn",
@@ -1928,8 +1928,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "NoxiousHaze": {
     "DefName": "NoxiousHaze",
@@ -1956,8 +1956,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 15,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "WastepackInfestation": {
     "DefName": "WastepackInfestation",
@@ -1984,8 +1984,8 @@
     "BaseChance": 0.012,
     "EarliestDay": 0,
     "PointsScaleable": true,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "VolcanicAsh": {
     "DefName": "VolcanicAsh",
@@ -2012,8 +2012,8 @@
     "BaseChance": 1.0,
     "EarliestDay": 15,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "LavaEmergence": {
     "DefName": "LavaEmergence",
@@ -2040,8 +2040,8 @@
     "BaseChance": 0.5,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "LavaFlow": {
     "DefName": "LavaFlow",
@@ -2068,8 +2068,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "SeasonalFlooding": {
     "DefName": "SeasonalFlooding",
@@ -2096,8 +2096,8 @@
     "BaseChance": 3.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "VolcanicDebris": {
     "DefName": "VolcanicDebris",
@@ -2124,8 +2124,8 @@
     "BaseChance": 2.0,
     "EarliestDay": 15,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "BoomshroomSprout": {
     "DefName": "BoomshroomSprout",
@@ -2152,8 +2152,8 @@
     "BaseChance": 1.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "BioluminescentSpores": {
     "DefName": "BioluminescentSpores",
@@ -2180,8 +2180,8 @@
     "BaseChance": 1.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "Drought": {
     "DefName": "Drought",
@@ -2208,8 +2208,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "GillRot": {
     "DefName": "GillRot",
@@ -2236,8 +2236,8 @@
     "BaseChance": 0.15,
     "EarliestDay": 45,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "OrbitalDebris": {
     "DefName": "OrbitalDebris",
@@ -2264,8 +2264,8 @@
     "BaseChance": 0.5,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "GiveQuest_MechanoidSignal": {
     "DefName": "GiveQuest_MechanoidSignal",
@@ -2292,8 +2292,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "VSE_Reinforcements": {
     "DefName": "VSE_Reinforcements",
@@ -2320,8 +2320,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": true,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "VFEM_PillageRaid": {
     "DefName": "VFEM_PillageRaid",
@@ -2348,8 +2348,8 @@
     "BaseChance": 0.3,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "DankPyon_DaerPasses": {
     "DefName": "DankPyon_DaerPasses",
@@ -2376,8 +2376,8 @@
     "BaseChance": 0.7,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "DankPyon_LindwurmPasses": {
     "DefName": "DankPyon_LindwurmPasses",
@@ -2404,8 +2404,8 @@
     "BaseChance": 0.7,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "DankPyon_GriffonPasses": {
     "DefName": "DankPyon_GriffonPasses",
@@ -2432,8 +2432,8 @@
     "BaseChance": 0.7,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "DankPyon_TrollPasses": {
     "DefName": "DankPyon_TrollPasses",
@@ -2460,8 +2460,8 @@
     "BaseChance": 0.7,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "DankPyon_GolemImpactor": {
     "DefName": "DankPyon_GolemImpactor",
@@ -2489,7 +2489,7 @@
     "EarliestDay": 0,
     "PointsScaleable": true,
     "MinThreatPoints": 500.0,
-    "MaxThreatPoints": 3.40282347E+38
+    "MaxThreatPoints": 3.4028235E+38
   },
   "DankPyon_Mineshaftfestation": {
     "DefName": "DankPyon_Mineshaftfestation",
@@ -2516,8 +2516,8 @@
     "BaseChance": 1.0,
     "EarliestDay": 0,
     "PointsScaleable": true,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "PrisonLabor_Revolt": {
     "DefName": "PrisonLabor_Revolt",
@@ -2535,7 +2535,7 @@
     "CooldownDays": 0,
     "UsesPerCooldownPeriod": 1,
     "ModSource": "Prison Labor",
-    "modactive": true,
+    "modactive": false,
     "Version": 1,
     "IsWeatherIncident": false,
     "IsRaidIncident": true,
@@ -2545,7 +2545,7 @@
     "EarliestDay": 0,
     "PointsScaleable": true,
     "MinThreatPoints": 200.0,
-    "MaxThreatPoints": 3.40282347E+38
+    "MaxThreatPoints": 3.4028235E+38
   },
   "PrisonLabor_ResocializationOffer": {
     "DefName": "PrisonLabor_ResocializationOffer",
@@ -2563,7 +2563,7 @@
     "CooldownDays": 0,
     "UsesPerCooldownPeriod": 1,
     "ModSource": "Prison Labor",
-    "modactive": true,
+    "modactive": false,
     "Version": 1,
     "IsWeatherIncident": false,
     "IsRaidIncident": false,
@@ -2572,8 +2572,8 @@
     "BaseChance": 10.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "PrisonLabor_Suicide": {
     "DefName": "PrisonLabor_Suicide",
@@ -2591,7 +2591,7 @@
     "CooldownDays": 0,
     "UsesPerCooldownPeriod": 1,
     "ModSource": "Prison Labor",
-    "modactive": true,
+    "modactive": false,
     "Version": 1,
     "IsWeatherIncident": false,
     "IsRaidIncident": false,
@@ -2601,7 +2601,7 @@
     "EarliestDay": 0,
     "PointsScaleable": false,
     "MinThreatPoints": 500.0,
-    "MaxThreatPoints": 3.40282347E+38
+    "MaxThreatPoints": 3.4028235E+38
   },
   "ProtectionFee": {
     "DefName": "ProtectionFee",
@@ -2628,8 +2628,8 @@
     "BaseChance": 0.5,
     "EarliestDay": 0,
     "PointsScaleable": true,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "ProtectionFeeLTS": {
     "DefName": "ProtectionFeeLTS",
@@ -2656,8 +2656,8 @@
     "BaseChance": 1.0,
     "EarliestDay": 0,
     "PointsScaleable": true,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "VSIE_OneNightStand": {
     "DefName": "VSIE_OneNightStand",
@@ -2684,8 +2684,8 @@
     "BaseChance": 0.01,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "BeeHiveSprout": {
     "DefName": "BeeHiveSprout",
@@ -2712,8 +2712,8 @@
     "BaseChance": 0.35,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "RansomDemand": {
     "DefName": "RansomDemand",
@@ -2740,8 +2740,8 @@
     "BaseChance": 2.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "RaidFriendly": {
     "DefName": "RaidFriendly",
@@ -2768,8 +2768,8 @@
     "BaseChance": 3.0,
     "EarliestDay": 0,
     "PointsScaleable": true,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "RaidEnemy": {
     "DefName": "RaidEnemy",
@@ -2796,8 +2796,8 @@
     "BaseChance": 7.4,
     "EarliestDay": 0,
     "PointsScaleable": true,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "DeepDrillInfestation": {
     "DefName": "DeepDrillInfestation",
@@ -2824,8 +2824,8 @@
     "BaseChance": 1.0,
     "EarliestDay": 0,
     "PointsScaleable": true,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "GiveQuest_EndGame_ShipEscape": {
     "DefName": "GiveQuest_EndGame_ShipEscape",
@@ -2852,8 +2852,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "MechCluster": {
     "DefName": "MechCluster",
@@ -2881,7 +2881,7 @@
     "EarliestDay": 0,
     "PointsScaleable": true,
     "MinThreatPoints": 400.0,
-    "MaxThreatPoints": 3.40282347E+38
+    "MaxThreatPoints": 3.4028235E+38
   },
   "GiveQuest_EndGame_RoyalAscent": {
     "DefName": "GiveQuest_EndGame_RoyalAscent",
@@ -2908,8 +2908,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "GiveQuest_EndGame_ArchonexusVictory": {
     "DefName": "GiveQuest_EndGame_ArchonexusVictory",
@@ -2936,8 +2936,8 @@
     "BaseChance": 0.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "DroughtInitial": {
     "DefName": "DroughtInitial",
@@ -2964,8 +2964,8 @@
     "BaseChance": 1.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   },
   "VME_JunkChunkDrop": {
     "DefName": "VME_JunkChunkDrop",
@@ -2992,7 +2992,35 @@
     "BaseChance": 2.0,
     "EarliestDay": 0,
     "PointsScaleable": false,
-    "MinThreatPoints": -3.40282347E+38,
-    "MaxThreatPoints": 3.40282347E+38
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
+  },
+  "VPE_EltexMeteorite": {
+    "DefName": "VPE_EltexMeteorite",
+    "Label": "eltex meteorite",
+    "Description": null,
+    "WorkerClassName": "IncidentWorker_EltexMeteorite",
+    "CategoryName": "Misc",
+    "BaseCost": 684,
+    "KarmaType": "Neutral",
+    "EventCap": 2,
+    "Enabled": false,
+    "DisabledReason": "Auto-disabled: Mod event (enable manually if desired)",
+    "ShouldBeInStore": true,
+    "IsAvailableForCommands": true,
+    "CooldownDays": 0,
+    "UsesPerCooldownPeriod": 1,
+    "ModSource": "Vanilla Psycasts Expanded",
+    "modactive": true,
+    "Version": 1,
+    "IsWeatherIncident": false,
+    "IsRaidIncident": false,
+    "IsDiseaseIncident": false,
+    "IsQuestIncident": false,
+    "BaseChance": 0.05,
+    "EarliestDay": 0,
+    "PointsScaleable": false,
+    "MinThreatPoints": -3.4028235E+38,
+    "MaxThreatPoints": 3.4028235E+38
   }
 }

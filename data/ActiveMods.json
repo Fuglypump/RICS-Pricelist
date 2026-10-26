@@ -1,17 +1,29 @@
 {
-  "exportedAt": "2026-10-11T23:52:51.0190014Z",
-  "totalActiveMods": 229,
+  "exportedAt": "2026-10-25T21:55:47.6748183Z",
+  "totalActiveMods": 280,
   "mods": [
     {
+      "author": "Copper Boltwire",
+      "name": "''Remove Floor'' Copied to Orders Patcher",
+      "steamId": "2186750532",
+      "version": null
+    },
+    {
       "author": "Owlchemist,  valzietine",
-      "name": "[1.6] Clean Pathfinding 2 (Fork)",
+      "name": "[1.6/1.7] Clean Pathfinding 2 (Fork)",
       "steamId": "3695419309",
       "version": null
     },
     {
       "author": "Captolamia",
+      "name": "[CAP] Automated Work Priorities",
+      "steamId": "3807466824",
+      "version": "1.0.2"
+    },
+    {
+      "author": "Captolamia",
       "name": "[CAP] Rimworld Interactive Chat Service",
-      "steamId": "3603078790",
+      "steamId": null,
       "version": "1.51.0"
     },
     {
@@ -39,6 +51,18 @@
       "version": "1.6.0"
     },
     {
+      "author": "Oganesson",
+      "name": "[Og] Automatic Power Switch",
+      "steamId": "3031634496",
+      "version": null
+    },
+    {
+      "author": "Chicken Plucker,  Taranchuk",
+      "name": "[RH2] CPERS: Arrest Here!",
+      "steamId": "2563157350",
+      "version": null
+    },
+    {
       "author": "seobongzu",
       "name": "[sbz] Bookcase",
       "steamId": "3789304104",
@@ -51,10 +75,16 @@
       "version": null
     },
     {
-      "author": "Shadowrabbit",
-      "name": "[SR]Touch Animal (Continued)",
-      "steamId": "3438568687",
-      "version": "1.6.0"
+      "author": "seobongzu",
+      "name": "[sbz] Gravship Storage",
+      "steamId": "3537905298",
+      "version": null
+    },
+    {
+      "author": "seobongzu",
+      "name": "[sbz] Neat Storage",
+      "steamId": "3416243474",
+      "version": null
     },
     {
       "author": "Telkir,  Rain",
@@ -93,6 +123,12 @@
       "version": null
     },
     {
+      "author": "Superniquito",
+      "name": "All Ideoligions Are Fluid",
+      "steamId": "2872901762",
+      "version": null
+    },
+    {
       "author": "HeartRay",
       "name": "Allied Ideologies",
       "steamId": "3768592866",
@@ -105,16 +141,22 @@
       "version": null
     },
     {
+      "author": "leafzxg",
+      "name": "Alpha Thrumbo Extension",
+      "steamId": "3522618217",
+      "version": null
+    },
+    {
       "author": "avilmask",
       "name": "Animal Controls",
       "steamId": "2426119067",
       "version": null
     },
     {
-      "author": "Fluffy",
-      "name": "Animal Tab (Continued 1.6)",
-      "steamId": "3575480305",
-      "version": null
+      "author": "Fluffy (original); Noslon (unofficial maintenance)",
+      "name": "Animal Tab — Unofficial Update",
+      "steamId": "3821183602",
+      "version": "1.7.0"
     },
     {
       "author": "Royal-Tea",
@@ -126,7 +168,25 @@
       "author": "Simmin",
       "name": "Animals Forage (Continued)",
       "steamId": "3667046888",
+      "version": "1.7.0"
+    },
+    {
+      "author": "Oblitus",
+      "name": "Animals Logic",
+      "steamId": "1098354593",
+      "version": null
+    },
+    {
+      "author": "pelador",
+      "name": "Apothecary (Continued)",
+      "steamId": "2195469123",
       "version": "1.6.0"
+    },
+    {
+      "author": "Untamo",
+      "name": "Apothecary Expansion",
+      "steamId": "3572529533",
+      "version": null
     },
     {
       "author": "marcin212",
@@ -138,6 +198,18 @@
       "author": "Marukun",
       "name": "Architect Menu Optimizer",
       "steamId": "3697920753",
+      "version": null
+    },
+    {
+      "author": "jayobie",
+      "name": "Auto Harvest Ambrosia",
+      "steamId": "3719589619",
+      "version": null
+    },
+    {
+      "author": "Snues",
+      "name": "Auto Hunt",
+      "steamId": "3736199031",
       "version": null
     },
     {
@@ -153,9 +225,21 @@
       "version": null
     },
     {
+      "author": "Ceramic",
+      "name": "Auto Tame",
+      "steamId": "3775682706",
+      "version": null
+    },
+    {
       "author": "Defi",
       "name": "Auto-Cut Blight - 1.6",
       "steamId": "3520167264",
+      "version": null
+    },
+    {
+      "author": "Slime-Senpai",
+      "name": "AutoVents",
+      "steamId": "2223332301",
       "version": null
     },
     {
@@ -166,14 +250,62 @@
     },
     {
       "author": "ferny",
+      "name": "Back For Vengeance",
+      "steamId": "3761967749",
+      "version": null
+    },
+    {
+      "author": "Neceros",
+      "name": "Bad Can Be Good (Continued)",
+      "steamId": "2889440091",
+      "version": "1.7.0"
+    },
+    {
+      "author": "Halicade",
+      "name": "Beard Age Requirement",
+      "steamId": "3706448581",
+      "version": null
+    },
+    {
+      "author": "Meltup",
+      "name": "Beautiful Outdoors",
+      "steamId": "2011794898",
+      "version": null
+    },
+    {
+      "author": "ferny",
       "name": "Better Architect Menu",
       "steamId": "3563882422",
+      "version": null
+    },
+    {
+      "author": "GwinnBleidd",
+      "name": "Better GC: Mothballed and World Pawns",
+      "steamId": "2982026860",
+      "version": null
+    },
+    {
+      "author": "RedMattis",
+      "name": "Better Gene Inheritance",
+      "steamId": "3046776238",
       "version": null
     },
     {
       "author": "VouLT",
       "name": "Better Pawn Control",
       "steamId": "1541460369",
+      "version": null
+    },
+    {
+      "author": "Aelanna",
+      "name": "Better Pyromania",
+      "steamId": "2624048970",
+      "version": "1.6.0"
+    },
+    {
+      "author": "Epicguru (James B)",
+      "name": "Better Transhumanists",
+      "steamId": "2269379503",
       "version": null
     },
     {
@@ -201,6 +333,12 @@
       "version": null
     },
     {
+      "author": "ArchieV / greenking2000",
+      "name": "BetterWeight",
+      "steamId": "2221387317",
+      "version": null
+    },
+    {
       "author": "AUTOMATIC",
       "name": "Bionic icons",
       "steamId": "1677616980",
@@ -210,6 +348,24 @@
       "author": "Ludeon Studios",
       "name": "Biotech",
       "steamId": null,
+      "version": null
+    },
+    {
+      "author": "Axolki",
+      "name": "Birthday Variety",
+      "steamId": "3770972092",
+      "version": "1.1.1"
+    },
+    {
+      "author": "Custom",
+      "name": "BleedOut Indicator",
+      "steamId": "3815701824",
+      "version": null
+    },
+    {
+      "author": "Fuu Chan",
+      "name": "Blood Animations",
+      "steamId": "3228047321",
       "version": null
     },
     {
@@ -231,18 +387,6 @@
       "version": null
     },
     {
-      "author": "Programmer-Lily",
-      "name": "Build From Storage",
-      "steamId": "3523011187",
-      "version": "1.0.4"
-    },
-    {
-      "author": "Andreas Pardeike",
-      "name": "Camera+",
-      "steamId": "867467808",
-      "version": "3.4.7.0"
-    },
-    {
       "author": "Smash Phil | Dr_Zhivago | monkey5206",
       "name": "Carry Capacity Fixed (Continued)",
       "steamId": "2880150945",
@@ -252,18 +396,12 @@
       "author": "void",
       "name": "Character Editor",
       "steamId": "1874644848",
-      "version": "1.6.1"
+      "version": "1.7.1"
     },
     {
       "author": "Blues",
       "name": "Circuit Breaker",
       "steamId": "3367738537",
-      "version": null
-    },
-    {
-      "author": "Ren7z",
-      "name": "Clean Textures",
-      "steamId": "2865361569",
       "version": null
     },
     {
@@ -273,9 +411,21 @@
       "version": null
     },
     {
+      "author": "CrashM",
+      "name": "CM Color Coded Mood Bar [1.1+]",
+      "steamId": "2006605356",
+      "version": null
+    },
+    {
       "author": "Clown",
       "name": "Colony Renamer",
       "steamId": "3737139331",
+      "version": null
+    },
+    {
+      "author": "Kikohi,  Sarg",
+      "name": "Colored deep resources",
+      "steamId": "3203269467",
       "version": null
     },
     {
@@ -297,6 +447,12 @@
       "version": null
     },
     {
+      "author": "tikubonn",
+      "name": "CorpseTab",
+      "steamId": "2599842476",
+      "version": null
+    },
+    {
       "author": "Francuxzz",
       "name": "Crafting Practice Mode",
       "steamId": "3785192135",
@@ -309,12 +465,6 @@
       "version": null
     },
     {
-      "author": "EveryonePanic",
-      "name": "Cuddly Companions",
-      "steamId": "3814961150",
-      "version": "0.1.1"
-    },
-    {
       "author": "Mlie",
       "name": "Custom Prisoner Interactions",
       "steamId": "2841231775",
@@ -324,7 +474,7 @@
       "author": "民火",
       "name": "Cut plants before building (Continued)",
       "steamId": "3286376165",
-      "version": "1.6.4"
+      "version": "1.7.0"
     },
     {
       "author": "UnlimitedHugs",
@@ -333,10 +483,16 @@
       "version": null
     },
     {
+      "author": "Marukun",
+      "name": "Dignified Departure",
+      "steamId": "3790055136",
+      "version": null
+    },
+    {
       "author": "Proxyer",
       "name": "Dismantle Ancient Junk",
       "steamId": "2871064871",
-      "version": "1.6.16"
+      "version": "1.7.0"
     },
     {
       "author": "Revolus",
@@ -345,34 +501,40 @@
       "version": "1.6.6"
     },
     {
+      "author": "Dubwise",
+      "name": "Dubs Performance Analyzer",
+      "steamId": "2038874626",
+      "version": "1.7.21"
+    },
+    {
       "author": "EdB",
       "name": "EdB Prepare Carefully",
       "steamId": "735106432",
       "version": null
     },
     {
+      "author": "Vectorial1024",
+      "name": "Effective Lumbering",
+      "steamId": "1589124288",
+      "version": null
+    },
+    {
       "author": "Mlie",
       "name": "Egg Incubator",
       "steamId": "2505566813",
-      "version": "1.6.0"
+      "version": "1.7.0"
     },
     {
       "author": "Murmur",
       "name": "Enemy Self Preservation (Continued)",
       "steamId": "3547114006",
-      "version": "1.6.0"
+      "version": "1.7.0"
     },
     {
       "author": "Morten Mertner",
       "name": "EPrime's Readouts",
       "steamId": "3769342092",
-      "version": "1.3.8"
-    },
-    {
-      "author": "Uuugggg",
-      "name": "Everybody Gets One - Continued",
-      "steamId": "3530806680",
-      "version": null
+      "version": "1.4.1"
     },
     {
       "author": "Zylle",
@@ -384,6 +546,24 @@
       "author": "Kosaro",
       "name": "Fahrenheit and Celsius",
       "steamId": "937759575",
+      "version": null
+    },
+    {
+      "author": "Dazz Aephiex",
+      "name": "Fast Author Confirm (Continued)",
+      "steamId": "2008011990",
+      "version": "1.7.0"
+    },
+    {
+      "author": "AceToYourFace",
+      "name": "Faster Meditation",
+      "steamId": "3724377973",
+      "version": null
+    },
+    {
+      "author": "Anonymous",
+      "name": "Feed Babies Faster",
+      "steamId": "3746905915",
       "version": null
     },
     {
@@ -399,6 +579,12 @@
       "version": null
     },
     {
+      "author": "WalterHawkwood",
+      "name": "Floors Are (Absolutely) Worthless",
+      "steamId": "2960126462",
+      "version": null
+    },
+    {
       "author": "ChaoticEnrico",
       "name": "Fog Color Changer",
       "steamId": "3492647454",
@@ -408,13 +594,19 @@
       "author": "Mehni",
       "name": "Food Alert (Continued)",
       "steamId": "2017538067",
-      "version": "1.6.4"
+      "version": "1.7.0"
     },
     {
       "author": "Dyrewulfe",
       "name": "Food Poisoning Stack Fix (Continued)",
       "steamId": "2843483188",
-      "version": "1.6.1"
+      "version": "1.7.0"
+    },
+    {
+      "author": "MrHydralisk",
+      "name": "Forgetful Mech Resurrection",
+      "steamId": "3766269434",
+      "version": null
     },
     {
       "author": "brage",
@@ -435,12 +627,6 @@
       "version": null
     },
     {
-      "author": "Roolo,  Owlchemist,  dav9670,  Meme Goddess",
-      "name": "Giddy-Up 2 - Continued",
-      "steamId": "3674332861",
-      "version": "2.2.5"
-    },
-    {
       "author": "Gideon",
       "name": "Gideon's Quality Surgeon Reborn",
       "steamId": "3226013991",
@@ -453,9 +639,9 @@
       "version": "0.1.0"
     },
     {
-      "author": "Telefonmast",
-      "name": "Graphics Settings+",
-      "steamId": "1678847247",
+      "author": "Arkymn",
+      "name": "Graying Hair",
+      "steamId": "2807132773",
       "version": null
     },
     {
@@ -468,13 +654,19 @@
       "author": "Andreas Pardeike",
       "name": "Harmony",
       "steamId": "2009463077",
-      "version": "2.4.2.0"
+      "version": "3.0.1.0"
     },
     {
       "author": "Smuffle,  OMGSplat",
       "name": "Harvest Organs Post Mortem Continued",
       "steamId": "1204502413",
       "version": null
+    },
+    {
+      "author": "Mlie",
+      "name": "Haul Mined Chunks",
+      "steamId": "2799728059",
+      "version": "1.6.5"
     },
     {
       "author": "ItsComcastic",
@@ -486,6 +678,18 @@
       "author": "Falconne / Syrus",
       "name": "Heat Map (Continued)",
       "steamId": "2552838384",
+      "version": null
+    },
+    {
+      "author": "BigTortoise",
+      "name": "High Life Drug Cooking Speed",
+      "steamId": "3183941628",
+      "version": null
+    },
+    {
+      "author": "ThatBartGuy",
+      "name": "High Tech Lab Retexture (1.6 tag)",
+      "steamId": "3785427792",
       "version": null
     },
     {
@@ -513,10 +717,16 @@
       "version": null
     },
     {
+      "author": "kathanon",
+      "name": "Impressionable Children",
+      "steamId": "2879996327",
+      "version": null
+    },
+    {
       "author": "Murmur",
       "name": "Incident Disabler (Continued)",
       "steamId": "3574116665",
-      "version": "1.6.0"
+      "version": "1.7.0"
     },
     {
       "author": "Various",
@@ -540,7 +750,13 @@
       "author": "Andreas Pardeike",
       "name": "Just Ignore Me Passing (Continued)",
       "steamId": "3503627342",
-      "version": "1.6.1"
+      "version": "1.7.0"
+    },
+    {
+      "author": "Mlie",
+      "name": "Just Put It Over There",
+      "steamId": "2856471776",
+      "version": "1.7.0"
     },
     {
       "author": "Linnun",
@@ -555,10 +771,16 @@
       "version": null
     },
     {
-      "author": "Avius,  Hazzer",
-      "name": "Locks",
-      "steamId": "1157085076",
+      "author": "Buggy",
+      "name": "Letter Permanent Injury",
+      "steamId": "2592535960",
       "version": null
+    },
+    {
+      "author": "Sam Hunt",
+      "name": "Local Mineral Scanner",
+      "steamId": "3798782281",
+      "version": "1.4.0"
     },
     {
       "author": "m00nl1ght",
@@ -567,15 +789,21 @@
       "version": null
     },
     {
-      "author": "Riketta",
-      "name": "Mark as Junk",
-      "steamId": "3794993035",
-      "version": "1.1.0"
-    },
-    {
       "author": "Kami Katze",
       "name": "Material Filter",
       "steamId": "1541305730",
+      "version": null
+    },
+    {
+      "author": "Hyaukyuu",
+      "name": "Mechlink Reinforcement",
+      "steamId": "3824378660",
+      "version": "1.0"
+    },
+    {
+      "author": "Maarx",
+      "name": "Meditate As WorkType (Continued)",
+      "steamId": "3273540559",
       "version": null
     },
     {
@@ -591,27 +819,27 @@
       "version": null
     },
     {
+      "author": "Kapitan Oczywisty",
+      "name": "Minimal Light Control",
+      "steamId": "1554307259",
+      "version": null
+    },
+    {
       "author": "Uuugggg",
       "name": "Mining Priority (Continued)",
       "steamId": "3610712721",
       "version": null
     },
     {
-      "author": "ViralReaction",
-      "name": "Missile Girl - Performance Mod",
-      "steamId": "3712928623",
-      "version": null
-    },
-    {
-      "author": "Giant Space Hamster",
-      "name": "Moody",
-      "steamId": "826998327",
-      "version": null
-    },
-    {
       "author": "Owlchemist",
       "name": "Moonlight",
       "steamId": "3261311563",
+      "version": null
+    },
+    {
+      "author": "Superniquito",
+      "name": "More Informative Ideology",
+      "steamId": "3761561660",
       "version": null
     },
     {
@@ -624,12 +852,6 @@
       "author": "Hob Took",
       "name": "Mortar Accuracy",
       "steamId": "1729446857",
-      "version": null
-    },
-    {
-      "author": "Font",
-      "name": "Mount Passengers",
-      "steamId": "3756579512",
       "version": null
     },
     {
@@ -657,9 +879,27 @@
       "version": null
     },
     {
+      "author": "mastercat",
+      "name": "No Carcinoma",
+      "steamId": "3770820361",
+      "version": null
+    },
+    {
+      "author": "The Village Guy",
+      "name": "No Center Drop Raids",
+      "steamId": "2600535803",
+      "version": null
+    },
+    {
       "author": "Papymaj5",
       "name": "No Debris",
       "steamId": "2565423517",
+      "version": null
+    },
+    {
+      "author": "MasterCat",
+      "name": "No Dementia",
+      "steamId": "3773076933",
       "version": null
     },
     {
@@ -684,7 +924,7 @@
       "author": "Mlie",
       "name": "No Missing Gene Icons",
       "steamId": "2890795292",
-      "version": "1.6.0"
+      "version": "1.7.0"
     },
     {
       "author": "ferny",
@@ -694,25 +934,19 @@
     },
     {
       "author": "Nina.Goblin",
-      "name": "No One Left Behind (1.6)",
+      "name": "No One Left Behind",
       "steamId": "3536586707",
-      "version": null
-    },
-    {
-      "author": "Weilbyte",
-      "name": "No Power Wires",
-      "steamId": "2255401110",
       "version": null
     },
     {
       "author": "Mlie",
       "name": "No Version Warning",
       "steamId": "2599504692",
-      "version": "1.6.115"
+      "version": "1.7.0"
     },
     {
       "author": "Magical Liopleurodon",
-      "name": "Non-Flammable Metal (1.0-1.6)",
+      "name": "Non-Flammable Metal (1.0-1.7)",
       "steamId": "1259296818",
       "version": null
     },
@@ -720,6 +954,18 @@
       "author": "Vesper",
       "name": "Not My Fault",
       "steamId": "2870045856",
+      "version": null
+    },
+    {
+      "author": "Mehni",
+      "name": "Numbers",
+      "steamId": "1414302321",
+      "version": null
+    },
+    {
+      "author": "ifchen0",
+      "name": "Numbers Fixes",
+      "steamId": "3813072104",
       "version": null
     },
     {
@@ -741,6 +987,12 @@
       "version": "1.6.1"
     },
     {
+      "author": "Peppsen",
+      "name": "P-Music",
+      "steamId": "725130005",
+      "version": null
+    },
+    {
       "author": "Kiame Vivacity, Missionz3r0, Vendan, simeyo",
       "name": "Path Avoid (1.6 Rebuild)",
       "steamId": "3779284077",
@@ -750,13 +1002,7 @@
       "author": "Murmur",
       "name": "Pawn Name Variety (Continued)",
       "steamId": "3548290568",
-      "version": "1.6.0"
-    },
-    {
-      "author": "Taranchuk",
-      "name": "Performance Optimizer",
-      "steamId": "2664723367",
-      "version": null
+      "version": "1.7.0"
     },
     {
       "author": "Ceres, Fluffy",
@@ -774,7 +1020,7 @@
       "author": "Neceros",
       "name": "Plant Growth Sync (Continued)",
       "steamId": "2807616911",
-      "version": "1.6.1"
+      "version": "1.7.0"
     },
     {
       "author": "Reqo",
@@ -801,15 +1047,27 @@
       "version": null
     },
     {
-      "author": "Avius, Hazzer",
-      "name": "Prison Labor",
-      "steamId": "1899474310",
-      "version": null
-    },
-    {
       "author": "MemeGoddess",
       "name": "Prisoners Are Not Swines - Continued",
       "steamId": "3625886335",
+      "version": null
+    },
+    {
+      "author": "Mlie",
+      "name": "Prisoners Should Fear Turrets",
+      "steamId": "2602436826",
+      "version": "1.7.0"
+    },
+    {
+      "author": "ferny",
+      "name": "Progression: Robotics",
+      "steamId": "3736402055",
+      "version": null
+    },
+    {
+      "author": "ferny",
+      "name": "Progression: Scenarios",
+      "steamId": "3378384387",
       "version": null
     },
     {
@@ -876,18 +1134,12 @@
       "author": "Dingo",
       "name": "Refactored Work Priorities (Continued)",
       "steamId": "2096359885",
-      "version": "1.6.4"
+      "version": "1.7.0"
     },
     {
       "author": "TaffyEdible",
       "name": "Reinforced Barrel Crafting again",
       "steamId": "3660191750",
-      "version": null
-    },
-    {
-      "author": "Copper Boltwire",
-      "name": "''Remove Floor'' Copied to Orders Patcher",
-      "steamId": "2186750532",
       "version": null
     },
     {
@@ -903,12 +1155,6 @@
       "version": null
     },
     {
-      "author": "Andreas Pardeike",
-      "name": "Reverse Commands",
-      "steamId": "858744731",
-      "version": "2.4.1.0"
-    },
-    {
       "author": "Jaxe",
       "name": "RimHUD",
       "steamId": "1508850027",
@@ -917,7 +1163,7 @@
     {
       "author": "LiFraxi",
       "name": "Rimify - Music Player & YouTube Sync",
-      "steamId": "3804662702",
+      "steamId": "3819761345",
       "version": "1.2.0"
     },
     {
@@ -942,7 +1188,7 @@
       "author": "Linq",
       "name": "Run and Hide (Continued)",
       "steamId": "2022480344",
-      "version": "1.6.2"
+      "version": "1.7.0"
     },
     {
       "author": "MemeGoddess",
@@ -957,10 +1203,22 @@
       "version": "Release 1.1 24.09.26"
     },
     {
+      "author": "FrostyDog",
+      "name": "Safe Running Zones",
+      "steamId": "3728893003",
+      "version": null
+    },
+    {
+      "author": "Mimoalexer",
+      "name": "Safe Shuttle Landing",
+      "steamId": "3817366213",
+      "version": null
+    },
+    {
       "author": "Uuugggg",
       "name": "Safely Hidden Away (Continued)",
       "steamId": "3546378186",
-      "version": "1.6.1"
+      "version": "1.7.0"
     },
     {
       "author": "Andreas Pardeike,  Louize",
@@ -976,15 +1234,21 @@
     },
     {
       "author": "Owlchemist",
-      "name": "Scattered Stones 1.6",
+      "name": "Scattered Stones 1.7",
       "steamId": "3528503211",
       "version": null
+    },
+    {
+      "author": "SamBucher",
+      "name": "Selective Bioregeneration",
+      "steamId": "3217675412",
+      "version": "1.1.2"
     },
     {
       "author": "jamaicancastle",
       "name": "Shoo! (Continued)",
       "steamId": "3550216763",
-      "version": "1.6.1"
+      "version": "1.7.0"
     },
     {
       "author": "Arvkus,  Proxyer,  Lanilor",
@@ -993,15 +1257,21 @@
       "version": "1.6.1"
     },
     {
-      "author": "B4ttl3m3d (Dev),  Pumpkinlass (Art)",
-      "name": "SimpleBabyCarry",
-      "steamId": "3692756679",
-      "version": "5.0.0"
+      "author": "PeteTimesSix; Dreadarm (independent maintainer)",
+      "name": "Simple Sidearms - Reworked",
+      "steamId": "3812754153",
+      "version": "1.4.27"
     },
     {
-      "author": "zZz",
-      "name": "Simpler Sidearms",
-      "steamId": "3809933830",
+      "author": "MrHydralisk",
+      "name": "Skilled Slaughtering",
+      "steamId": "2873284405",
+      "version": null
+    },
+    {
+      "author": "astryl",
+      "name": "Sleeping Buddies",
+      "steamId": "3774741768",
       "version": null
     },
     {
@@ -1062,7 +1332,7 @@
       "author": "Scherub",
       "name": "Stonecutting Extended",
       "steamId": "2571676542",
-      "version": "1.13.0"
+      "version": "1.14.0"
     },
     {
       "author": "Fluffy",
@@ -1081,6 +1351,12 @@
       "name": "TakeCover",
       "steamId": "3749200746",
       "version": null
+    },
+    {
+      "author": "mattyb",
+      "name": "Tamed Animal Performance Improvement",
+      "steamId": "3718144461",
+      "version": "v1.5.4"
     },
     {
       "author": "Uuugggg",
@@ -1107,10 +1383,10 @@
       "version": null
     },
     {
-      "author": "Zaljerem",
-      "name": "Thrumbo Horn Weapons (Continued)",
-      "steamId": "2937755006",
-      "version": "1.0.3"
+      "author": "leafzxg",
+      "name": "Thrumbo Extension",
+      "steamId": "859466666",
+      "version": null
     },
     {
       "author": "Keno",
@@ -1185,7 +1461,7 @@
       "version": null
     },
     {
-      "author": "OskarPotocki,  Atlas,  Kikohi,  Sarg,  Sokyran",
+      "author": "OskarPotocki,  Taranchuk ,  Sarg,  Sokyran",
       "name": "Vanilla Furniture Expanded",
       "steamId": "1718190143",
       "version": null
@@ -1257,9 +1533,21 @@
       "version": null
     },
     {
+      "author": "Oskar Potocki,  Kikohi",
+      "name": "Vanilla Nutrient Paste Expanded",
+      "steamId": "2920385763",
+      "version": null
+    },
+    {
       "author": "Oskar Potocki,  Sarg Bjornson,  Chowder",
       "name": "Vanilla Plants Expanded",
       "steamId": "2134308522",
+      "version": null
+    },
+    {
+      "author": "erdelf,  Oskar Potocki,  legodude17,  Taranchuk,  xrushha,  Sarg Bjornson,  Sir Van,  Reann Shepard",
+      "name": "Vanilla Psycasts Expanded",
+      "steamId": "2842502659",
       "version": null
     },
     {
@@ -1308,7 +1596,7 @@
       "author": "totobrother",
       "name": "Various Space Ship Chunk (Continued)",
       "steamId": "2014616487",
-      "version": "1.6.2"
+      "version": "1.7.0"
     },
     {
       "author": "dismarzero",
@@ -1323,10 +1611,16 @@
       "version": null
     },
     {
-      "author": "Zaljerem",
-      "name": "Wall Vitals Monitor (Continued)",
-      "steamId": "3283745385",
-      "version": "1.0.3"
+      "author": "1trickPwnyta",
+      "name": "Visible Wealth",
+      "steamId": "3461137081",
+      "version": "1.1.3"
+    },
+    {
+      "author": "Mlie",
+      "name": "Visual XML Patches",
+      "steamId": "3570531169",
+      "version": "1.6.2"
     },
     {
       "author": "Victor,  wilki24",
@@ -1353,10 +1647,22 @@
       "version": null
     },
     {
+      "author": "Nuff",
+      "name": "Work Box Highlight",
+      "steamId": "3654677201",
+      "version": null
+    },
+    {
+      "author": "cedaro",
+      "name": "World Pawn Cleaner",
+      "steamId": "3181327333",
+      "version": null
+    },
+    {
       "author": "Sergkart",
       "name": "WVC - Work Modes",
       "steamId": "2888380373",
-      "version": "1.1.7"
+      "version": "1.1.8"
     },
     {
       "author": "Imranfish",

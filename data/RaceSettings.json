@@ -25,7 +25,7 @@
       "Impid": 2625.0,
       "Waster": 2187.5,
       "Yttakin": 1750.0,
-      "Highmate": 1837.49988,
+      "Highmate": 1837.4999,
       "Starjack": 1750.0,
       "VRE_Lowmate": 1750.0
     },
@@ -42,7 +42,7 @@
       "Yttakin": true,
       "Highmate": true,
       "Starjack": true,
-      "VRE_Lowmate": false
+      "VRE_Lowmate": true
     }
   }
 }
