@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-10-25T21:55:47.6748183Z",
-  "totalActiveMods": 280,
+  "exportedAt": "2026-10-29T08:40:25.8882006Z",
+  "totalActiveMods": 315,
   "mods": [
     {
       "author": "Copper Boltwire",
@@ -23,8 +23,8 @@
     {
       "author": "Captolamia",
       "name": "[CAP] Rimworld Interactive Chat Service",
-      "steamId": null,
-      "version": "1.51.0"
+      "steamId": "3603078790",
+      "version": "1.54.0"
     },
     {
       "author": "FrozenSnowFox",
@@ -94,6 +94,12 @@
     },
     {
       "author": "XeoNovaDan",
+      "name": "[XND] Nocturnal Animals (Continued)",
+      "steamId": "2269731409",
+      "version": "1.7.0"
+    },
+    {
+      "author": "XeoNovaDan",
       "name": "[XND] Tiny Tweaks (Continued)",
       "steamId": "2270049772",
       "version": "1.6.2"
@@ -103,6 +109,12 @@
       "name": "A Dog Said... Animal Prosthetics 2",
       "steamId": "3238353862",
       "version": "1.3.7"
+    },
+    {
+      "author": "Andreas Pardeike (Brrainz); unofficial 1.7 adaptation: RADMIKO",
+      "name": "Achtung! 1.7",
+      "steamId": "3825140646",
+      "version": "4.1.14.1"
     },
     {
       "author": "vin",
@@ -177,6 +189,12 @@
       "version": null
     },
     {
+      "author": "Ludeon Studios",
+      "name": "Anomaly",
+      "steamId": null,
+      "version": null
+    },
+    {
       "author": "pelador",
       "name": "Apothecary (Continued)",
       "steamId": "2195469123",
@@ -225,9 +243,21 @@
       "version": null
     },
     {
+      "author": "tlupatac",
+      "name": "Auto Surgery Policy",
+      "steamId": "3729953863",
+      "version": null
+    },
+    {
       "author": "Ceramic",
       "name": "Auto Tame",
       "steamId": "3775682706",
+      "version": null
+    },
+    {
+      "author": "Linnun",
+      "name": "Auto-Cast Specialist Commands",
+      "steamId": "3459647882",
       "version": null
     },
     {
@@ -277,6 +307,12 @@
       "name": "Better Architect Menu",
       "steamId": "3563882422",
       "version": null
+    },
+    {
+      "author": "NetzachSloth, Toby",
+      "name": "Better autocasting for Vanilla Psycasts Expanded",
+      "steamId": "3199585285",
+      "version": "9.0.0.4"
     },
     {
       "author": "GwinnBleidd",
@@ -381,6 +417,12 @@
       "version": null
     },
     {
+      "author": "Sk",
+      "name": "Bred in Captivity",
+      "steamId": "3812094687",
+      "version": "1.2.0"
+    },
+    {
       "author": "Ratys",
       "name": "Bricks Don't Vanish",
       "steamId": "1260920951",
@@ -453,6 +495,12 @@
       "version": null
     },
     {
+      "author": "rosaline",
+      "name": "Cozy Heater 2 - The Titanic Supermod",
+      "steamId": "3696914192",
+      "version": null
+    },
+    {
       "author": "Francuxzz",
       "name": "Crafting Practice Mode",
       "steamId": "3785192135",
@@ -475,12 +523,6 @@
       "name": "Cut plants before building (Continued)",
       "steamId": "3286376165",
       "version": "1.7.0"
-    },
-    {
-      "author": "UnlimitedHugs",
-      "name": "Defensive Positions",
-      "steamId": "761219125",
-      "version": null
     },
     {
       "author": "Marukun",
@@ -534,13 +576,19 @@
       "author": "Morten Mertner",
       "name": "EPrime's Readouts",
       "steamId": "3769342092",
-      "version": "1.4.1"
+      "version": "1.5.1"
     },
     {
       "author": "Zylle",
       "name": "Extra Alerts",
       "steamId": "1926923167",
       "version": null
+    },
+    {
+      "author": "Murmur",
+      "name": "Faction Raid Cooldown (Continued)",
+      "steamId": "3547098393",
+      "version": "1.7.0"
     },
     {
       "author": "Kosaro",
@@ -639,6 +687,12 @@
       "version": "0.1.0"
     },
     {
+      "author": "Telefonmast",
+      "name": "Graphics Settings",
+      "steamId": "1678847247",
+      "version": null
+    },
+    {
       "author": "Arkymn",
       "name": "Graying Hair",
       "steamId": "2807132773",
@@ -657,12 +711,6 @@
       "version": "3.0.1.0"
     },
     {
-      "author": "Smuffle,  OMGSplat",
-      "name": "Harvest Organs Post Mortem Continued",
-      "steamId": "1204502413",
-      "version": null
-    },
-    {
       "author": "Mlie",
       "name": "Haul Mined Chunks",
       "steamId": "2799728059",
@@ -678,6 +726,12 @@
       "author": "Falconne / Syrus",
       "name": "Heat Map (Continued)",
       "steamId": "2552838384",
+      "version": null
+    },
+    {
+      "author": "Aoba",
+      "name": "Hemogen Pack - Emergency transfusion",
+      "steamId": "3778942862",
       "version": null
     },
     {
@@ -705,15 +759,33 @@
       "version": null
     },
     {
+      "author": "Zaljerem",
+      "name": "Hospitality (Continued)",
+      "steamId": "3509486825",
+      "version": "1.1.7"
+    },
+    {
       "author": "UnlimitedHugs",
       "name": "HugsLib",
       "steamId": "818773962",
       "version": null
     },
     {
+      "author": "HaiLuan",
+      "name": "I will be back",
+      "steamId": "3400259397",
+      "version": null
+    },
+    {
       "author": "Ludeon Studios",
       "name": "Ideology",
       "steamId": null,
+      "version": null
+    },
+    {
+      "author": "Luke",
+      "name": "Implant Salvage",
+      "steamId": "3790499628",
       "version": null
     },
     {
@@ -777,6 +849,12 @@
       "version": null
     },
     {
+      "author": "choco",
+      "name": "Little Playgrounds",
+      "steamId": "3828953545",
+      "version": null
+    },
+    {
       "author": "Sam Hunt",
       "name": "Local Mineral Scanner",
       "steamId": "3798782281",
@@ -799,12 +877,6 @@
       "name": "Mechlink Reinforcement",
       "steamId": "3824378660",
       "version": "1.0"
-    },
-    {
-      "author": "Maarx",
-      "name": "Meditate As WorkType (Continued)",
-      "steamId": "3273540559",
-      "version": null
     },
     {
       "author": "rabiosus",
@@ -837,6 +909,12 @@
       "version": null
     },
     {
+      "author": "IceZero",
+      "name": "More Anima Tree Rituals",
+      "steamId": "3822789351",
+      "version": null
+    },
+    {
       "author": "Superniquito",
       "name": "More Informative Ideology",
       "steamId": "3761561660",
@@ -858,6 +936,12 @@
       "author": "konstantynopolitaneczka",
       "name": "Move the Patient",
       "steamId": "3574898541",
+      "version": null
+    },
+    {
+      "author": "DanZinagri",
+      "name": "Name Colony At Start",
+      "steamId": "3815624891",
       "version": null
     },
     {
@@ -900,6 +984,18 @@
       "author": "MasterCat",
       "name": "No Dementia",
       "steamId": "3773076933",
+      "version": null
+    },
+    {
+      "author": "Dark",
+      "name": "No Hemogen Farm Medical Alert",
+      "steamId": "2887053053",
+      "version": null
+    },
+    {
+      "author": "cedaro",
+      "name": "No Hopeless Romance",
+      "steamId": "2964282061",
       "version": null
     },
     {
@@ -948,6 +1044,12 @@
       "author": "Magical Liopleurodon",
       "name": "Non-Flammable Metal (1.0-1.7)",
       "steamId": "1259296818",
+      "version": null
+    },
+    {
+      "author": "Shadowcrafts",
+      "name": "Not My Bionics!",
+      "steamId": "3793758866",
       "version": null
     },
     {
@@ -1116,7 +1218,7 @@
       "author": "Helixien,  Oracle of Thessia",
       "name": "ReBuild: Doors and Corners",
       "steamId": "3262718980",
-      "version": "1.5-Miller-rev1"
+      "version": "1.5-Miller-rev2"
     },
     {
       "author": "vin",
@@ -1128,7 +1230,7 @@
       "author": "AUTOMATIC",
       "name": "Recipe icons (Continued)",
       "steamId": "2904906618",
-      "version": "1.6.1"
+      "version": "1.7.0"
     },
     {
       "author": "Dingo",
@@ -1149,9 +1251,27 @@
       "version": null
     },
     {
+      "author": "Moony",
+      "name": "Repair Items",
+      "steamId": "2564355300",
+      "version": null
+    },
+    {
       "author": "Uuugggg",
       "name": "Replace Stuff - Continued",
       "steamId": "3526354009",
+      "version": null
+    },
+    {
+      "author": "jaeger972",
+      "name": "Replant Trees",
+      "steamId": "3598475419",
+      "version": null
+    },
+    {
+      "author": "Archangel",
+      "name": "Replantable Special Trees",
+      "steamId": "3223685440",
       "version": null
     },
     {
@@ -1176,7 +1296,7 @@
       "author": "Falconne",
       "name": "Room Sense (Continued)",
       "steamId": "3587620374",
-      "version": "1.6.1"
+      "version": "1.7.0"
     },
     {
       "author": "Ludeon Studios",
@@ -1227,6 +1347,18 @@
       "version": null
     },
     {
+      "author": "Zylle",
+      "name": "Sand Castles",
+      "steamId": "1980394843",
+      "version": null
+    },
+    {
+      "author": "opponent019",
+      "name": "Sanguophage Feed Relationship",
+      "steamId": "2884586228",
+      "version": null
+    },
+    {
       "author": "Owlchemist",
       "name": "Scattered Flames",
       "steamId": "3261108120",
@@ -1260,7 +1392,7 @@
       "author": "PeteTimesSix; Dreadarm (independent maintainer)",
       "name": "Simple Sidearms - Reworked",
       "steamId": "3812754153",
-      "version": "1.4.27"
+      "version": "1.4.32"
     },
     {
       "author": "MrHydralisk",
@@ -1296,7 +1428,7 @@
       "author": "legodude17",
       "name": "Smarter Deconstruction and Mining (Continued)",
       "steamId": "3261302741",
-      "version": "1.6.1"
+      "version": "1.7.0"
     },
     {
       "author": "ChaoticEnrico",
@@ -1320,7 +1452,7 @@
       "author": "Spdskatr",
       "name": "SS Lightning Rod (Continued)",
       "steamId": "2358261479",
-      "version": "1.6.0"
+      "version": "1.7.0"
     },
     {
       "author": "Vis",
@@ -1417,6 +1549,12 @@
       "name": "Use This Instead",
       "steamId": "3396308787",
       "version": "1.6.152"
+    },
+    {
+      "author": "kentotsu",
+      "name": "Useful Filters",
+      "steamId": "3766551975",
+      "version": "1.0.3"
     },
     {
       "author": "Sarg Bjornson,  Oskar Potocki",
@@ -1621,6 +1759,78 @@
       "name": "Visual XML Patches",
       "steamId": "3570531169",
       "version": "1.6.2"
+    },
+    {
+      "author": "Sentinel",
+      "name": "VPE - Aeromancer",
+      "steamId": "3548321284",
+      "version": "1.0"
+    },
+    {
+      "author": "Morton",
+      "name": "VPE - Aeromancer (Retexture)",
+      "steamId": "3724996100",
+      "version": null
+    },
+    {
+      "author": "Sentinel",
+      "name": "VPE - Anima",
+      "steamId": "3462136587",
+      "version": "1.0"
+    },
+    {
+      "author": "Morton",
+      "name": "VPE - Anima (Retexture)",
+      "steamId": "3745672274",
+      "version": null
+    },
+    {
+      "author": "Sentinel",
+      "name": "VPE - Geomancer",
+      "steamId": "3551731617",
+      "version": "1.0"
+    },
+    {
+      "author": "Morton",
+      "name": "VPE - Geomancer (Retexture)",
+      "steamId": "3735124996",
+      "version": null
+    },
+    {
+      "author": "Sentinel",
+      "name": "VPE - Hydromancer",
+      "steamId": "3548321563",
+      "version": "1.0"
+    },
+    {
+      "author": "Morton",
+      "name": "VPE - Hydromancer (Retexture)",
+      "steamId": "3724679401",
+      "version": null
+    },
+    {
+      "author": "Sentinel",
+      "name": "VPE - Sentinel Framework",
+      "steamId": "3724841120",
+      "version": "1.0"
+    },
+    {
+      "author": "Sentinel",
+      "name": "VPE - Veincaster",
+      "steamId": "3677511885",
+      "version": "1.0"
+    },
+    {
+      "author": "Sentinel",
+      "name": "VPE - Voidweaver",
+      "steamId": "3467913565",
+      "version": "1.0"
+    },
+    {
+      "author": "Local mod",
+      "name": "Wall-Mounted Function Furniture",
+      "steamId": "3807382130",
+      "version": null
     },
     {
       "author": "Victor,  wilki24",
