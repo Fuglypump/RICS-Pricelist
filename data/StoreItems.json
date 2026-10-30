@@ -2202,7 +2202,7 @@
       "Mod": "Core",
       "BasePrice": 3,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "Sarcophagus": {
